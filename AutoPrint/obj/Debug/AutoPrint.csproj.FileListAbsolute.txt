@@ -1,0 +1,10 @@
+c:\users\rwina\documents\visual studio 2015\Projects\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe.config
+c:\users\rwina\documents\visual studio 2015\Projects\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe
+c:\users\rwina\documents\visual studio 2015\Projects\AutoPrint\AutoPrint\bin\Debug\AutoPrint.pdb
+c:\users\rwina\documents\visual studio 2015\Projects\AutoPrint\AutoPrint\obj\Debug\AutoPrint.AutoPrint.resources
+c:\users\rwina\documents\visual studio 2015\Projects\AutoPrint\AutoPrint\obj\Debug\AutoPrint.Properties.Resources.resources
+c:\users\rwina\documents\visual studio 2015\Projects\AutoPrint\AutoPrint\obj\Debug\AutoPrint.csproj.GenerateResource.Cache
+c:\users\rwina\documents\visual studio 2015\Projects\AutoPrint\AutoPrint\obj\Debug\AutoPrint.exe
+c:\users\rwina\documents\visual studio 2015\Projects\AutoPrint\AutoPrint\obj\Debug\AutoPrint.pdb
+C:\Users\rwina\documents\visual studio 2015\Projects\AutoPrint\AutoPrint\obj\Debug\AutoPrint.preference.resources
+C:\Users\rwina\documents\visual studio 2015\Projects\AutoPrint\AutoPrint\obj\Debug\AutoPrint.csprojResolveAssemblyReference.cache
